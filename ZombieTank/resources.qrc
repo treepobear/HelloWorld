@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.jpg</file>
+        <file>images/badtankleft.png</file>
+        <file>images/bullet1.png</file>
+        <file>images/bullet2.png</file>
+        <file>images/mytankright.png</file>
+        <file>images/lifesupply.png</file>
+        <file>images/boom.BMP</file>
+        <file>images/bg.jpg</file>
+        <file>images/bg2.jpg</file>
+    </qresource>
+</RCC>
